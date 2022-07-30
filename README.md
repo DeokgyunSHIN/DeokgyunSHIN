@@ -1,4 +1,4 @@
-# SHIN DEOK GYUN 😉
+# 😉 SHIN DEOK GYUN 😉
 
 ![Deokgyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokgyunSHIN&show_icons=true&theme=github_dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdk99018)](https://solved.ac/sdk99018/)
