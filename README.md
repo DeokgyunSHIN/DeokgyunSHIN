@@ -1,7 +1,7 @@
 # 😉 SHIN DEOK GYUN 😉
 
 ![Deokgyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokgyunSHIN&show_icons=true&theme=github_dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdk99018)](https://solved.ac/sdk99018/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdk99018)](https://solved.ac/sdk99018)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeokgyunSHIN&layout=compact&theme=tokyonight)
 
 
