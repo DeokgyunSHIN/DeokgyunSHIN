@@ -31,7 +31,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdg99018@gmail.com)](mailto:sdg99018@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sdg99018@naver.com)](mailto:sdg99018@naver.com)
 
-
-<a href="https://github.com/DeokgyunSHIN"><img src="contributions.svg"></a>
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
