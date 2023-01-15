@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hi!DeokgyunSHIN&fontSize=25&rotate=-20)
 
-![Deokgyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deokgyun&show_icons=true&theme=transparent)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdk99018)](https://solved.ac/sdk99018)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeokgyunSHIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 💪Skills
