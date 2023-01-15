@@ -1,9 +1,10 @@
 # 😉 SHIN DEOK GYUN 😉
 
-![Deokgyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeokgyunSHIN&show_icons=true&theme=github_dark)
+![header](https://capsule-render.vercel.app/api?text=Hi!DeokgyunSHIN&fontSize=25&rotate=-20)
+
+![Deokgyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deokgyun&show_icons=true&theme=transparent)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdk99018)](https://solved.ac/sdk99018)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeokgyunSHIN&layout=compact&theme=tokyonight)
-
 
 # 💪Skills
 ### Platforms & Languages
@@ -31,4 +32,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdg99018@gmail.com)](mailto:sdg99018@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sdg99018@naver.com)](mailto:sdg99018@naver.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
